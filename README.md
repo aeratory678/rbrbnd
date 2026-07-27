@@ -48,6 +48,7 @@ cd rbrbnd
 
 # install requirements
 pip install -r requirements.txt
+# might need to make changes to the files for running since it was orginally made for windows.
 
 # run as admin / root
 python main.py
