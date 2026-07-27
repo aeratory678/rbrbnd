@@ -14,7 +14,7 @@ built to make you feel more alive without being drained by your screen.
 ### features
 
 * **website + app blocking**: blocks websites across all browsers by editing the Windows OS `hosts` file locally, plus process-killing for desktop apps.
-* **no-nonsense ui**: minimal interface inspired by Zune OS, powered by `pywebview` with dynamic, procedural background visuals.
+* **no-nonsense ui**: minimal interface inspired by zune OS, powered by `pywebview` with dynamic, procedural background visuals.
 * **lightweight**: fast with minimal resource footprint.
 
 ---
@@ -30,7 +30,7 @@ built to make you feel more alive without being drained by your screen.
 ### roadmap & future ideas
 
 * [x] windows desktop launch (`.exe`)
-* [ ] Cross-platform support (macOS / Linux)
+* [ ] cross-platform support (macOS / linux)
 * [ ] **proof of focus (PoF)**: a slightly unrealistic idea of converting focus hours into real rewards (e.g. *focus x hours $\rightarrow$ get y products*).
 
 ---
